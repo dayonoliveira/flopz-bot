@@ -1,6 +1,8 @@
 # FLOPZ BOT
 > The project is not in production yet, but one day it will be. I pretend to upload in Heroku platform.
 
+> This project was stoped for unknow time. Someday I back to develop it :)
+
 A Discord bot developed in Node.JS and Typescript. This project name is a tribute for big floppa's meme, that simple. Follow some memes:
 
 ### Classic
